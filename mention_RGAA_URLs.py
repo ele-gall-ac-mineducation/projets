@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+# licence ouverte https://www.etalab.gouv.fr/licence-ouverte-open-licence - travail personnel sur temps libre
+# « vérifie » à peu près la présence des mentions obligatoires RGAA 4 de la page d’accueil d’un « service de communication au public en ligne » :
+# « Accessibilité : non conforme »
+# « Accessibilité : partiellement conforme »
+# « Accessibilité : totalement conforme »
+# en cas de réussite prend une capture d’écran pour vérification postérieure
+# prend en entrée une liste d’URL (sans http… devant), en éliminant les lignes débutant par un #
+# pas parfait mais mieux que rien… (notamment des erreurs qui bouclent parfois) :
+# merci à Bastien et Nicolas (de me persuader de publier un code dans un tel état… ;)
+# contributions de pythonistes bienvenues (n’en suis pas)
 from selenium import webdriver
 import time
 
