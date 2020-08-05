@@ -1,0 +1,18 @@
+# TESTS
+www.monparcourshandicap.gouv.fr
+www.numerique.gouv.fr/publications/rgaa-accessibilite/obligations
+www.service-public.fr
+#
+# ~ www.dila.premier-ministre.gouv.fr
+www.iledefrance.fr
+entrepreneur-interet-general.etalab.gouv.fr# ~ www.etalab.gouv.fr
+# ~ www.iut-cachan.universite-paris-saclay.fr
+# ~ www.bnf.fr
+# ~ www.impots.gouv.fr
+#
+apps.education.fr
+#
+www.education.gouv.fr
+schema.data.gouv.fr
+#
+eduscol.education.gouv.fr

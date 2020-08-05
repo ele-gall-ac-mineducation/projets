@@ -1,0 +1,45 @@
+START
+www.monparcourshandicap.gouv.fr
+https://www.monparcourshandicap.gouv.fr/
+www.monparcourshandicap.gouv.fr_screenshot.png
+mention : totalement conforme
+
+www.numerique.gouv.fr/publications/rgaa-accessibilite/obligations
+https://www.numerique.gouv.fr/publications/rgaa-accessibilite/obligations/
+www.numerique.gouv.fr·publications·rgaa-accessibilite·obligations_screenshot.png
+mention : non conforme
+mention : partiellement conforme
+mention : totalement conforme
+
+www.service-public.fr
+https://www.service-public.fr/
+www.service-public.fr_screenshot.png
+mention : totalement conforme
+
+www.iledefrance.fr
+https://www.iledefrance.fr/
+www.iledefrance.fr_screenshot.png
+mention : partiellement conforme
+
+entrepreneur-interet-general.etalab.gouv.fr# ~ www.etalab.gouv.fr
+https://entrepreneur-interet-general.etalab.gouv.fr/#%20~%20www.etalab.gouv.fr
+entrepreneur-interet-general.etalab.gouv.fr# ~ www.etalab.gouv.fr_screenshot.png
+mention : partiellement conforme
+
+apps.education.fr
+http://apps.education.fr/
+apps.education.fr_screenshot.png
+mention : non conforme
+
+www.education.gouv.fr
+https://www.education.gouv.fr/
+pas de mention RGAA
+
+schema.data.gouv.fr
+https://schema.data.gouv.fr/
+pas de mention RGAA
+
+eduscol.education.gouv.fr
+erreur
+
+FINISH
